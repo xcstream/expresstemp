@@ -1,0 +1,48 @@
+{
+  "name": "expresstemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcstream/expresstemp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcstream/expresstemp/issues"
+  },
+  "homepage": "https://github.com/xcstream/expresstemp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "connect-redis": "^3.3.3",
+    "excel-export": "^0.5.1",
+    "express": "^4.16.3",
+    "express-path": "^0.3.8",
+    "express-session": "^1.17.0",
+    "helmet": "^3.12.0",
+    "js-base64": "^2.4.5",
+    "md5": "^2.2.1",
+    "md5-hex": "^2.0.0",
+    "multiparty": "^4.2.1",
+    "mysql": "^2.12.0",
+    "node-fetch": "^1.7.3",
+    "node-schedule": "^1.3.0",
+    "node-uuid": "^1.4.7",
+    "nodemailer": "^4.6.4",
+    "pug": "^2.0.3",
+    "qr-image": "^3.2.0",
+    "raven": "^2.4.2",
+    "redis": "^2.8.0",
+    "request": "^2.88.0",
+    "sequelize": "^3.32.1",
+    "serve-static": "^1.13.2",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.19"
+  }
+}
