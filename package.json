@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/xcstream/expresstemp#readme",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.2",
     "bluebird": "^3.7.2",
     "body-parser": "^1.19.0",
     "connect-redis": "^3.4.2",
