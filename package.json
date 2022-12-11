@@ -22,7 +22,7 @@
     "body-parser": "^1.19.0",
     "connect-redis": "^3.4.2",
     "excel-export": "^0.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-path": "^0.3.8",
     "express-session": "^1.17.0",
     "helmet": "^3.21.2",
